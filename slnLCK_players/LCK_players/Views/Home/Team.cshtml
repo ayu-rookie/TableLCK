@@ -1,0 +1,89 @@
+﻿@model IEnumerable<LCK_players.Models.TableLCKs1081720>
+
+@{
+    ViewBag.Title = "Team";
+}
+
+<br>
+<a href='Home/Logout'>登出</a>
+
+
+ @{string imgname = ViewBag.team + ".png"; }
+
+
+<h2><img src="~/logo/@imgname" width="70" />@ViewBag.team</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.暱稱)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.譯名)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.韓文名)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.定位)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.先發)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.生日)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.國籍)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.隊伍)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.加入時間)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.暱稱)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.譯名)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.韓文名)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.定位)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.先發)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.生日)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.國籍)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.隊伍)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.加入時間)
+            </td>
+            <td>
+                <a href="@Url.Action("Edit")?playerId=@item.暱稱" class="btn btn-warning">編輯</a>
+                <a href="@Url.Action("Delete")?playerId=@item.暱稱"
+                   class="btn btn-danger"
+                   onclick="return confirm('確定要刪除 @item.隊伍 @item.暱稱 的記錄嗎？');">
+                    刪除
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>

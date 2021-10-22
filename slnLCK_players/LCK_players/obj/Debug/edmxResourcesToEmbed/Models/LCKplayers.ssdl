@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="netdbBLCKModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TableLCKs1081720">
+    <Key>
+      <PropertyRef Name="暱稱" />
+    </Key>
+    <Property Name="暱稱" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="譯名" Type="nvarchar" MaxLength="50" />
+    <Property Name="韓文名" Type="nvarchar" MaxLength="50" />
+    <Property Name="定位" Type="nvarchar" MaxLength="50" />
+    <Property Name="先發" Type="nvarchar" MaxLength="50" />
+    <Property Name="生日" Type="date" />
+    <Property Name="國籍" Type="nvarchar" MaxLength="50" />
+    <Property Name="隊伍" Type="nvarchar" MaxLength="50" />
+    <Property Name="加入時間" Type="date" />
+  </EntityType>
+  <EntityContainer Name="netdbBLCKModelStoreContainer">
+    <EntitySet Name="TableLCKs1081720" EntityType="Self.TableLCKs1081720" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

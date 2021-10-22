@@ -1,0 +1,174 @@
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\LCK_players.dll.config
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\LCK_players.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\LCK_players.pdb
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\csc.exe
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\csc.exe.config
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\csc.rsp
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\csi.exe
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\csi.exe.config
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\csi.rsp
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.AppContext.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Collections.Immutable.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Console.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Globalization.Calendars.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.IO.Compression.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.IO.FileSystem.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Net.Http.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Net.Sockets.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Reflection.Metadata.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.ValueTuple.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Xml.XPath.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\vbc.exe
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\vbc.exe.config
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\vbc.rsp
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\VBCSCompiler.exe
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\roslyn\VBCSCompiler.exe.config
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\EntityFramework.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\EntityFramework.SqlServer.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\Microsoft.Web.Infrastructure.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Helpers.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Mvc.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Razor.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Webpages.Deployment.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Webpages.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Webpages.Razor.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\EntityFramework.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\EntityFramework.SqlServer.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Razor.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Webpages.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Webpages.Deployment.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Webpages.Razor.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Helpers.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\System.Web.Mvc.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\zh-Hant\EntityFramework.resources.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\obj\Debug\LCK_players.csproj.CoreCompileInputs.cache
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\obj\Debug\LCK_players.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\obj\Debug\LCK_players.pdb
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\PagedList.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\PagedList.Mvc.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\PagedList.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\PagedList.Mvc.xml
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\Class\1092\ASP.NET\1081720 Project\slnLCK_players\LCK_players\obj\Debug\LCK_players.csproj.AssemblyReference.cache
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\LCK_players.dll.config
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\LCK_players.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\LCK_players.pdb
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\csc.exe
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\csc.exe.config
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\csc.rsp
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\csi.exe
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\csi.exe.config
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\csi.rsp
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.AppContext.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Collections.Immutable.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Console.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Globalization.Calendars.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.IO.Compression.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.IO.FileSystem.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Net.Http.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Net.Sockets.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Reflection.Metadata.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.ValueTuple.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Xml.XPath.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\vbc.exe
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\vbc.exe.config
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\vbc.rsp
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\VBCSCompiler.exe
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\roslyn\VBCSCompiler.exe.config
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\EntityFramework.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\EntityFramework.SqlServer.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\Microsoft.Web.Infrastructure.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\PagedList.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\PagedList.Mvc.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Helpers.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Mvc.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Razor.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Webpages.Deployment.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Webpages.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Webpages.Razor.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\EntityFramework.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\EntityFramework.SqlServer.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\PagedList.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\PagedList.Mvc.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Razor.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Webpages.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Webpages.Deployment.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Webpages.Razor.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Helpers.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\System.Web.Mvc.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\zh-Hant\EntityFramework.resources.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Webpages.resources.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\obj\Debug\LCK_players.csproj.AssemblyReference.cache
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\obj\Debug\LCK_players.csproj.CoreCompileInputs.cache
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\obj\Debug\LCK_players.dll
+D:\Class\1092\ASP.NET\ASP.NET_LCK\slnLCK_players\LCK_players\obj\Debug\LCK_players.pdb

@@ -1,0 +1,71 @@
+﻿@using PagedList
+@using PagedList.Mvc
+
+@model IPagedList<LCK_players.Models.TableLCKs1081720>
+
+@{
+    ViewBag.Title = "Index";
+}
+<br>
+<a href='Home/Logout'>登出</a>
+
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+
+<h2><img src="~/logo/LCK.png" width="70" />LCK - League of Legends Champions Korea</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().隊伍)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().暱稱)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().譯名)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().韓文名)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().定位)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().國籍)
+        </th>
+
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.隊伍)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.暱稱)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.譯名)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.韓文名)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.定位)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.國籍)
+    </td>
+
+</tr>
+    }
+
+</table>
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+

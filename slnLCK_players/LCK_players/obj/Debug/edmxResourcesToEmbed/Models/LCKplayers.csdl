@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="netdbBLCKModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TableLCKs1081720">
+    <Key>
+      <PropertyRef Name="暱稱" />
+    </Key>
+    <Property Name="暱稱" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="譯名" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="韓文名" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="定位" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="先發" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="生日" Type="DateTime" Precision="0" />
+    <Property Name="國籍" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="隊伍" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="加入時間" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="LCKEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TableLCKs1081720" EntityType="Self.TableLCKs1081720" />
+  </EntityContainer>
+</Schema>

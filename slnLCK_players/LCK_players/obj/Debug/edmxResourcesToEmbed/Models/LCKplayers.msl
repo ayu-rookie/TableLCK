@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="netdbBLCKModelStoreContainer" CdmEntityContainer="LCKEntities">
+    <EntitySetMapping Name="TableLCKs1081720">
+      <EntityTypeMapping TypeName="netdbBLCKModel.TableLCKs1081720">
+        <MappingFragment StoreEntitySet="TableLCKs1081720">
+          <ScalarProperty Name="暱稱" ColumnName="暱稱" />
+          <ScalarProperty Name="譯名" ColumnName="譯名" />
+          <ScalarProperty Name="韓文名" ColumnName="韓文名" />
+          <ScalarProperty Name="定位" ColumnName="定位" />
+          <ScalarProperty Name="先發" ColumnName="先發" />
+          <ScalarProperty Name="生日" ColumnName="生日" />
+          <ScalarProperty Name="國籍" ColumnName="國籍" />
+          <ScalarProperty Name="隊伍" ColumnName="隊伍" />
+          <ScalarProperty Name="加入時間" ColumnName="加入時間" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

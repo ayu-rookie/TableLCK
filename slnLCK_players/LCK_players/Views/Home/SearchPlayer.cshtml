@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "SearchPlayer";
+}
+
+<br>
+<a href='Home/Logout'>登出</a>
+
+<h2>選手</h2>
+
+<form method="post" action="@Url.Action("Player")">
+    <div class="panel panel-success">
+        <div class="panel-heading">查詢相關選手</div>
+        <div class="panel-body">
+            <p>
+                選擇隊伍:
+                <select id="team" name="team" class="form-control">
+                    <option>T1</option>
+                    <option>Gen.G</option>
+                    <option>Hanwha Life Esports</option>
+                    <option>DWG KIA</option>
+                    <option>DRX</option>
+                    <option>KT Rolster</option>
+                    <option>Nongshim RedForce</option>
+                    <option>Liiv SANDBOX</option>
+                    <option>Afreeca Freecs</option>
+                    <option>Fredit BRION</option>
+                    <option>全部</option>
+                </select>
+            </p>
+            <p>
+                選擇先發:
+                <select id="lineup" name="lineup" class="form-control">
+                    <option>先發</option>
+                    <option>替補</option> 
+                    <option>全部</option>
+                </select>
+            </p>
+            <p>
+                選擇定位:
+                <select id="five" name="five" class="form-control">
+                    <option>上路</option>
+                    <option>中路</option>
+                    <option>打野</option>
+                    <option>下路</option>
+                    <option>輔助</option>
+                    <option>全部</option>                  
+                </select>
+            </p>
+            <p>
+                <input type="submit" value="查詢" class="btn btn-success" />
+            </p>
+
+        </div>
+    </div>
+</form>
+
+
+
+
