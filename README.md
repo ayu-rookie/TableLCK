@@ -16,7 +16,7 @@ This is a project for the LCK Participant Database.
 <ul>管理員登入與登出，參賽人員新增、刪除、修改，以及查詢相關隊伍與特定類型的選手。</ul>
 
 <li><b>主程式請參考檔案位置 : </b></li>
-<ul>/slnLCK_players/LCK_players/ </ul>
+<ul>slnLCK_players/LCK_players/ </ul>
 
 <li><b>Demo影片 (OneDrive) :</b></li>
 <ul>https://reurl.cc/0xKz4o</ul>
