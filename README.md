@@ -6,9 +6,9 @@ This is a project for the LCK Participant Database.
 
 <li><b>程式應用 : </b></li>
 <ol>
-  <li>Controller : </li>
-  <li>View : </li>
-  <li>Model : </li>
+  <li>Controller : ViewBag [HttpPost]、授權過濾器 [AllowAnonymous]</li>
+  <li>View : 版面配置頁、範本</li>
+  <li>Model : ADO.NET 實體資料庫模型 (資料庫)</li>
 
 </ol>
 
