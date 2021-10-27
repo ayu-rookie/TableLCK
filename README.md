@@ -1,5 +1,5 @@
 # TableLCK
-This is a project for the LCK Participant Database
+This is a project for the LCK Participant Database.
 
 使用 <b>ASP.NET MVC</b> 架構，並連結資料庫，</br>
 模擬LCK(英雄聯盟韓國冠軍聯賽)參賽人員管理系統。
